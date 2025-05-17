@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pier Marcello Castelli</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      background-color: #f5f5f5;
+      color: #333;
+      max-width: 800px;
+      margin: auto;
+      padding: 40px 20px;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #111;
+      font-size: 2em;
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 0.3em;
+    }
+    h2 {
+      margin-top: 2em;
+      color: #222;
+    }
+    .section {
+      margin-top: 1.5em;
+    }
+  </style>
+</head>
+<body>
+  <h1>PIER MARCELLO CASTELLI</h1>
+
+  <h2>La Luna nella mia Pittura</h2>
+  <p>Da alcuni anni, la Luna è divenuta un tema centrale nella mia ricerca pittorica. La sua presenza, antica e silenziosa, ha assunto per me un significato nuovo, soprattutto da quando l’umanità ha iniziato a contemplare l’idea concreta di viverci, di colonizzare quel corpo celeste che per millenni è stato simbolo di mistero, sogno e distanza.</p>
+  <p>Nei miei quadri ho cercato di immaginare non solo lo scenario fisico della Luna, con la sua luce obliqua e il suo paesaggio severo, ma anche le implicazioni esistenziali del tentativo umano di abitare l’inabitabile. Ho cercato di interrogarmi su cosa accada allo spirito quando l’uomo si sposta oltre i confini terrestri, portando con sé i propri sogni, le proprie fragilità, le proprie nostalgie.</p>
+  <p>In questo viaggio immaginario, mi sono soffermato su una dimensione che appartiene al passato e alla memoria: quella dei giochi semplici, di quando sulla Terra bastava poco per creare mondi con la fantasia. Quella leggerezza infantile, oggi così distante, è divenuta nella mia pittura una presenza invisibile, un’eco. Le tele che trattano questi ricordi non sono presenti in mostra, ma costituiscono il contrappunto necessario a ogni riflessione sul futuro: perché senza memoria del nostro essere umani, anche la conquista dello spazio rischia di diventare solo un nuovo esilio.</p>
+
+  <h2>Le opere</h2>
+  <div class="section">
+    <strong>COSA DAREMO AL NIPOTINO</strong><br>
+    Le gerle vuote stanno ad indicare l'aridità del suolo lunare e quindi l'impossibilità di coltivare il terreno e quindi poter sfamare qualcuno.
+  </div>
+  <div class="section">
+    <strong>LA POLVERE SOTTO IL TAPPETO</strong><br>
+    Si dà l’idea che l'universo stellare che ci circonda è talmente denso da essere assimilabile alla polvere.
+  </div>
+  <div class="section">
+    <strong>RASSETTANDO CASA</strong><br>
+    L’ambiente in cui si sta passando lo straccio è senza tetto per mancanza di precipitazioni, a testimonianza, quindi, che il satellite è senza acqua.
+  </div>
+  <div class="section">
+    <strong>RICORDANDO LUINO</strong><br>
+    L’unica immagine che resterà impressa nella mente a chi sbarcherà sulla luna sarà quella del paese natio o dove si è vissuto a lungo.
+  </div>
+
+  <h2>Biografia</h2>
+  <p>Pier Marcello Castelli nasce a Pesaro nel 1946, ma dopo appena due settimane si trasferisce con la famiglia a Montegrino Valtravaglia, tra le vallate lombarde, dove cresce circondato dalla natura e dal silenzio. Oggi vive a Luino, in una casa affacciata sul Lago Maggiore, che ogni giorno gli restituisce ispirazione e quiete.</p>
+  <p>Laureato in Chimica, ha lavorato per tutta la vita come dirigente d’azienda, con incarichi che lo hanno condotto anche all’estero. Negli anni Settanta ha vissuto a New York, durante una stagione culturale di grande fermento, e successivamente a Ginevra, dove ha continuato a coltivare la sua passione per l’arte.</p>
+  <p>La pittura, per Castelli, non è mai stata un mestiere né una vocazione pubblica, ma una dimensione privata, quasi terapeutica: un atto di ascolto interiore, un modo per mettere in forma i propri stati d’animo e restituire senso al vissuto. Ha sempre dipinto per sé, per la propria famiglia, per gli amici più intimi.</p>
+  <p>Il suo gesto creativo è libero da ogni logica di mercato, scandito soltanto dal tempo dell’anima e dell’ispirazione. Durante gli anni universitari a Milano, entra in contatto con gli ambienti artistici della città: il bar Giamaica di via Brera, il ristorante “Pino La Parete”, l’atelier dello scultore Ambrogio Consonni, allora attivo per la Veneranda Fabbrica del Duomo. In quegli anni si confronta anche con artisti come Ercole Pignatelli e Raco, in un clima di dialogo e ricerca.</p>
+  <p>Nel tempo ha elaborato una pittura visionaria e personale, attraversata dalle influenze di grandi maestri del Novecento — De Chirico, Savinio, Dalì, Balla, Magritte — reinterpretati secondo una cifra intima, surreale e simbolica.</p>
+  <p>Le sue esposizioni, rare e sempre volute, sono state organizzate da amici e conoscenti che ne hanno riconosciuto la sensibilità e il valore. Ogni mostra si è svolta in luoghi significativi per l’artista, non scelti a caso, ma perché legati a relazioni personali, ricordi e affinità profonde. Ha esposto a Milano, in Lomellina, a Ginevra (Caffè de Bank), a Sanremo (Grand Hotel Des Anglais), e sul Lago Maggiore in occasione della rassegna “Arte tra i laghi” (a Montegrino Valtravaglia e a Luino, presso Palazzo Verbania). A Germignaga, ha presentato le sue opere nella Colonia Elioterapica, durante un evento promosso dal Rotary Club Laveno Luino Alto Verbano.</p>
+  <p>Il suo impegno per la cultura si è espresso anche in ambito istituzionale, nei ruoli di Amministratore Unico della Patrimoniale della Provincia di Varese e di Assessore alla Cultura e all’Istruzione del Comune di Luino, portando la sua visione umanistica nei luoghi della gestione pubblica.</p>
+  <p>Pier Marcello Castelli continua oggi a dipingere con fedeltà a sé stesso: un’arte che non cerca il clamore, ma custodisce uno sguardo autentico sul mondo — silenzioso, profondo, necessario.</p>
+</body>
+</html>
